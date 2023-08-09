@@ -25,9 +25,8 @@ export default function About() {
                 <option value="en">English</option>
                 <option value="jp">Japanese</option>
             </select>
-            <h1>{t("about-heading")}</h1>
-            <p>{t("about-content")}</p>
-            <button>{t("about-btn")}</button>
+            <h1>{t("heading")}</h1>
+            <p>{t("message")}</p>
         </div>
     )
 }

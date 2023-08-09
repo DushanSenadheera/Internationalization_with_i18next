@@ -1,5 +1,4 @@
 {
-	"about-heading": "Who are we?",
-	"about-content": "Sample who are we content here",
-	"about-btn": "Join with Us"
+	"heading" : "Hello, Welcome",
+	"message" : "Welcome to the Reacti18nect tutorial"
 }
